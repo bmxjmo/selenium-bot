@@ -44,4 +44,4 @@ class TwitterBot:
 geckodriver_autoinstaller.install()
 autobot = TwitterBot('login', 'password')
 autobot.login()
-autobot.like_tweet('#blackfriday')
+autobot.like_tweet('#theoscars2021')
